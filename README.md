@@ -17,5 +17,5 @@ To run this app, you'll need to set up a Python environment and install the requ
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/text-insights.git
+   git clone [https://github.com/yourusername/text-insights.git](https://github.com/omkarsutar9702/Text-Insights-Sentiment-Analysis-Summarization.git)
    cd text-insights
