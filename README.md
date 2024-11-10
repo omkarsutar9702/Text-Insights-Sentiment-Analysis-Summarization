@@ -12,10 +12,5 @@ Welcome to **Text Insights**! This application allows you to analyze the sentime
 - **HuggingFace Transformers:** Pre-trained models for sentiment analysis (`cardiffnlp/twitter-roberta-base-sentiment`) and text summarization (`facebook/bart-large-cnn`).
 - **PyTorch:** Machine learning library for running the models, optimized for GPU if available.
   
-## Installation:
-To run this app, you'll need to set up a Python environment and install the required dependencies. Follow these steps:
-
-1. Clone this repository:
-   ```bash
-   git clone [https://github.com/yourusername/text-insights.git](https://github.com/omkarsutar9702/Text-Insights-Sentiment-Analysis-Summarization.git)
-   cd text-insights
+## try this app here:
+[https://text-insights-sentiment-analysis-summarization.streamlit.app/]
