@@ -32,7 +32,6 @@ et-xmlfile==1.1.0
 exceptiongroup==1.2.0
 executing==2.0.1
 fastjsonschema==2.19.1
-filecombiner==1.0
 filelock==3.16.1
 Flask==3.0.3
 fonttools==4.50.0
